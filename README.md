@@ -1,1 +1,1 @@
-Archiving demo notebooks presented in UC
+GeoAnalytics demo notebooks presented in UC
