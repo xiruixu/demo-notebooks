@@ -1,1 +1,1 @@
-GeoAnalytics demo notebooks presented in UC
+ArcGIS GeoAnalytics demo notebooks presented at UC
